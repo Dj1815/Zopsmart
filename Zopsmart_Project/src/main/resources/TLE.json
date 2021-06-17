@@ -1,0 +1,14 @@
+{
+  "language" : "c++",
+  "codeByUser" : "",
+  "fullCode" : "class Solution {\r\n\r\n    public static void main(String[] args) throws Exception {\r\n\r\n        for(;;){}    }\r\n\r\n}",
+  "className":"Solution",
+  "testCases" : [
+    {
+      "id" : "1",
+      "input" : "2 3",
+      "output" : "4"
+    }
+  ]
+
+}

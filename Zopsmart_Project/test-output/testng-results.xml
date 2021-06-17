@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-15T13:28:09 IST" name="Default suite" finished-at="2021-06-15T13:28:14 IST" duration-ms="5110">
+    <groups>
+    </groups>
+    <test started-at="2021-06-15T13:28:09 IST" name="Default test" finished-at="2021-06-15T13:28:14 IST" duration-ms="5110">
+      <class name="zs.qeb.ty.test1.GetRequestFailure">
+        <test-method signature="getRequestFailure()[pri:0, instance:zs.qeb.ty.test1.GetRequestFailure@7adda9cc]" started-at="2021-06-15T13:28:09 IST" name="getRequestFailure" finished-at="2021-06-15T13:28:14 IST" duration-ms="5035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequestFailure -->
+      </class> <!-- zs.qeb.ty.test1.GetRequestFailure -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,24 @@
+{
+        "language" : "java",
+        "codeByUser" : "",
+        "fullCode" : "class Solution {\r\n\r\n    public static void main(String[] args) throws Exception {\r\n\r\n        int firstNumber = Integer.parseInt(args[0]);\r\n        int secondNumber = Integer.parseInt(args[1]);\r\n        System.out.println((firstNumber + secondNumber));\r\n\r\n    }\r\n\r\n}",
+        "className":"Solution",
+         "testCases" : [
+        {
+            "id" : "1",
+            "input" : "2 3",
+            "output" : "4"
+        },
+        {
+            "id" : "2",
+            "input" : "7 8",
+            "output" : "15"
+        },
+        {
+            "id" : "3",
+            "input" : "17 8",
+            "output" : "55"
+        }
+    ]
+
+}
